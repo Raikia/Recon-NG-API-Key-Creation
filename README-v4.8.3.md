@@ -1,8 +1,4 @@
-One of the biggest annoyances of using Recon-ng is getting everything set up to use it.  So here I'll outline the different API keys it can use and where to get them yourself.  Some require you to pay money, which will be mentioned below.  I suggest as you go along, you save all the API keys to a file so you can use them later.
-
-
-
-Right now, I'm using Recon-ng v4.8.3
+Instructions for Recon-NG v4.8.3:
 
 
 
@@ -67,9 +63,3 @@ API Keys:
    29. **virustotal_api** _(If using a branch with it)_ - Go [here](https://www.virustotal.com/) and click "Join our community" in the top right.  Active the account via email, then login.  Click your username in the top right, then click "My API Key". The API key will be shown. A "public" API will be sufficient.
 
 
-
-
-
-
-
-That's all the API keys for now!  As more are added, I'll try to keep up with instructions on how to make the keys.  If I've missed anything, please feel free to submit a pull request for fixes!
